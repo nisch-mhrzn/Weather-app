@@ -28,7 +28,7 @@ The Weather App is a simple desktop application built using Python and Tkinter t
 
 4. **Run the Application:**
    ```bash
-   python weather_app.py
+   python weath.py
    ```
 
 ## Usage
